@@ -1,0 +1,12 @@
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\bin\Debug\net6.0\Cancha.CoreAccesoDatos.deps.json
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\bin\Debug\net6.0\Cancha.CoreAccesoDatos.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\bin\Debug\net6.0\Cancha.CoreAccesoDatos.pdb
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.AssemblyInfo.cs
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\refint\Cancha.CoreAccesoDatos.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\Cancha.CoreAccesoDatos.pdb
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreAccesoDatos\obj\Debug\net6.0\ref\Cancha.CoreAccesoDatos.dll

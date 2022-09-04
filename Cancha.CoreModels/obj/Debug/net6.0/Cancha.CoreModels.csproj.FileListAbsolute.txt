@@ -1,0 +1,12 @@
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\bin\Debug\net6.0\Cancha.CoreModels.deps.json
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\bin\Debug\net6.0\Cancha.CoreModels.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\bin\Debug\net6.0\Cancha.CoreModels.pdb
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.csproj.AssemblyReference.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.AssemblyInfoInputs.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.AssemblyInfo.cs
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.csproj.CoreCompileInputs.cache
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\refint\Cancha.CoreModels.dll
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\Cancha.CoreModels.pdb
+C:\Users\Manolete\Desktop\AplicacionEnNetCore\Canchas1\Cancha.CoreModels\obj\Debug\net6.0\ref\Cancha.CoreModels.dll
